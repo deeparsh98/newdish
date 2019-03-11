@@ -1,5 +1,5 @@
-var YOUR_USERNAME = 'premi_poet';
-var YOUR_PASSWORD = '1992939798';
+var YOUR_USERNAME = 'NNN';
+var YOUR_PASSWORD = 'NNN';
 var ENTER_BUTTON_NAME = 'Log In';
 
 casper.test.begin('Instagram login', 1, 
